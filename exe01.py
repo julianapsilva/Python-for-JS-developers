@@ -1,5 +1,6 @@
+from decimal import Decimal
 USERNAME = "Jake"
-CREDITS = 2.2
+CREDITS = Decimal("2.2")
 ITENS_IN_CART = ["Jeans", "Shoes", "Socks"]
 
 
